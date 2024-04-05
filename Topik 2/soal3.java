@@ -1,3 +1,4 @@
+// soal act
 // Pada kotak jawaban terdapat program yang belum lengkap. Tugas Anda adalah melengkapi program tersebut dengan menuliskan method-method yang diperlukan. Program tersebut seharusnya bekerja seperti berikut: meminta pengguna untuk memasukkan masing-masing lima nilai ujian, menghitung rata-rata dari lima ujian, menampilkan nilai rata-rata tersebut, menghitung grade huruf dari nilai rata-rata, dan menampilkan grade huruf tersebut. 
 
 // Program di kotak jawaban memerlukan dua method berikut:

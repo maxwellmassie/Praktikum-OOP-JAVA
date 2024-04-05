@@ -1,3 +1,4 @@
+//soal act
 // Tuliskan sebuah program penjualan tiket bioskop dalam jumlah terbatas dengan ketentuan penjualan seperti berikut:
 
 // Tiket yang dijual sebanyak 10 tiket.

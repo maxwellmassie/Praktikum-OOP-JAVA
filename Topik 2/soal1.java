@@ -1,3 +1,4 @@
+//soal act
 // Pada suatu perusahaan jasa pengiriman paket, tarif pengiriman ditentukan berdasarkan tabel berikut:
 
 // tablenya gabisa dicopy ygy
