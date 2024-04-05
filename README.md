@@ -1,2 +1,2 @@
-# Praktikum-PB0
+# Praktikum-OOP-JAVA
 bukan kj
